@@ -1,0 +1,19 @@
+{
+  "name": "@malmgrenola/my-test-package",
+  "version": "1.0.0",
+  "description": "MY first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malmgrenola/my-test-package.git"
+  },
+  "author": "Ola Malmgren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malmgrenola/my-test-package/issues"
+  },
+  "homepage": "https://github.com/malmgrenola/my-test-package#readme"
+}
