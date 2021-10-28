@@ -1,7 +1,7 @@
 {
   "name": "@malmgrenola/my-test-package",
   "version": "1.0.0",
-  "description": "MY first package",
+  "description": "My first package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/malmgrenola/my-test-package/issues"
   },
-  "homepage": "https://github.com/malmgrenola/my-test-package#readme"
+  "homepage": "https://github.com/malmgrenola/my-test-package#readme",
+  "dependencies": {
+    "my-test-package": "^1.0.0"
+  }
 }
