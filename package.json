@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/malmgrenola/my-test-package/issues"
   },
-  "homepage": "https://github.com/malmgrenola/my-test-package#readme",
-  "dependencies": {
-    "my-test-package": "^1.0.0"
-  }
+  "homepage": "https://github.com/malmgrenola/my-test-package#readme"
 }
