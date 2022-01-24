@@ -1,5 +1,5 @@
 {
-  "name": "@malmgrenola/my-test-package",
+  "name": "@boffinsdev/my-test-package",
   "version": "2.0.1",
   "description": "My first package",
   "main": "index.js",
