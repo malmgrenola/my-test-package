@@ -2,9 +2,7 @@
 
 My very first package with npm and a hello world example.
 
-Echo a string with a message in uppercase and original format
-
-for example `You anonymously said: FISH from the original "Fish"`
+Echo a string with a message in uppercase and original format for example `You anonymously said: FISH from the original "Fish"`
 
 ## Install
 
@@ -12,8 +10,9 @@ for example `You anonymously said: FISH from the original "Fish"`
 
 ## Usage
 
+```javascript
+const myEcho = require("@malmgrenola/my-test-package");
+console.log(myEcho("Fish"));
 ```
-const myEcho = require('@malmgrenola/my-test-package')
-console.log(myEcho('Fish'))
-```
+
 returns the output `You anonymously said: FISH from the original "Fish"`
